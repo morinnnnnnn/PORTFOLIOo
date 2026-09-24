@@ -1,1 +1,2 @@
 # PORTFOLIOo
+.[ปก](ปก.md)
